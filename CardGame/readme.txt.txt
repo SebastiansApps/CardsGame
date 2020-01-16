@@ -1,0 +1,1 @@
+Card game to draw, sort and shuffle cards. Made in Eclipse with gradle and Java. To run project open Eclipse and run program. 
